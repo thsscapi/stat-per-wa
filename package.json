@@ -1,0 +1,12 @@
+{
+  "name": "stat-per-wa",
+  "version": "1.0.0",
+  "description": "Sparrow's Stat per WA Calculator - A buildless MapleLegends calculator for stat/WA ratios",
+  "private": true,
+  "scripts": {
+    "install": "echo 'No build step required for this static site'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}
